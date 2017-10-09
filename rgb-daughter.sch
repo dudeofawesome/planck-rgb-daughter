@@ -5244,61 +5244,6 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </deviceset>
 </devicesets>
 </library>
-<library name="cherrymx">
-<description>Cherry MX Keyswitch PCB footprints</description>
-<packages>
-<package name="CHERRY-MX-LED">
-<description>Cherry MX series keyswitch footprint with additional holes for LED</description>
-<wire x1="-7.62" y1="7.62" x2="7.62" y2="7.62" width="0.127" layer="21"/>
-<wire x1="7.62" y1="7.62" x2="7.62" y2="-7.62" width="0.127" layer="21"/>
-<wire x1="7.62" y1="-7.62" x2="-7.62" y2="-7.62" width="0.127" layer="21"/>
-<wire x1="-7.62" y1="-7.62" x2="-7.62" y2="7.62" width="0.127" layer="21"/>
-<pad name="SW1" x="-3.81" y="2.54" drill="1.5" diameter="2.54"/>
-<pad name="SW2" x="2.54" y="5.08" drill="1.5" diameter="2.54"/>
-<pad name="P$3" x="-5.08" y="0" drill="1.7144" diameter="1.9304"/>
-<pad name="P$4" x="5.08" y="0" drill="1.7144" diameter="1.9304"/>
-<hole x="0" y="0" drill="4.0004"/>
-<pad name="LED1" x="-1.27" y="-3.81" drill="1.016" diameter="1.6764"/>
-<pad name="LED2" x="1.27" y="-3.81" drill="1.016" diameter="1.6764"/>
-</package>
-</packages>
-<symbols>
-<symbol name="CHERRY-MX-LED">
-<description>Schematic part for Cherry MX series keyswitch with additional pins for LED</description>
-<text x="-5.334" y="5.588" size="1.4224" layer="95">CHERRY-MX-LED</text>
-<pin name="SW1" x="-10.16" y="2.54" length="middle"/>
-<pin name="SW2" x="-10.16" y="-2.54" length="middle"/>
-<text x="-5.334" y="-7.366" size="1.778" layer="95">&gt;NAME</text>
-<wire x1="-5.08" y1="5.08" x2="-5.08" y2="-5.08" width="0.254" layer="94"/>
-<wire x1="-5.08" y1="-5.08" x2="12.7" y2="-5.08" width="0.254" layer="94"/>
-<wire x1="12.7" y1="-5.08" x2="12.7" y2="5.08" width="0.254" layer="94"/>
-<wire x1="12.7" y1="5.08" x2="-5.08" y2="5.08" width="0.254" layer="94"/>
-<pin name="LED1" x="17.78" y="2.54" length="middle" rot="R180"/>
-<pin name="LED2" x="17.78" y="-2.54" length="middle" rot="R180"/>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="CHERRY-MX-LED">
-<description>Cherry MX series keyswitch with LED</description>
-<gates>
-<gate name="G$1" symbol="CHERRY-MX-LED" x="-2.54" y="0"/>
-</gates>
-<devices>
-<device name="" package="CHERRY-MX-LED">
-<connects>
-<connect gate="G$1" pin="LED1" pad="LED1"/>
-<connect gate="G$1" pin="LED2" pad="LED2"/>
-<connect gate="G$1" pin="SW1" pad="SW1"/>
-<connect gate="G$1" pin="SW2" pad="SW2"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
 <library name="SparkFun-Capacitors" urn="urn:adsk.eagle:library:510">
 <description>&lt;h3&gt;SparkFun Capacitors&lt;/h3&gt;
 This library contains capacitors. 
@@ -5516,7 +5461,6 @@ Warning: This is the KIT version of this package. This package has a smaller dia
 <part name="J1" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="CONN_05" device="1.27MM" package3d_urn="urn:adsk.eagle:package:38110/1" value="INPUT"/>
 <part name="SUPPLY1" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="R1" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="M0805" package3d_urn="urn:adsk.eagle:package:26079/1" value="100"/>
-<part name="U$1" library="cherrymx" deviceset="CHERRY-MX-LED" device=""/>
 <part name="FRAME2" library="SparkFun-Aesthetics" library_urn="urn:adsk.eagle:library:507" deviceset="FRAME-LETTER" device="" package3d_urn="urn:adsk.eagle:package:37121/1"/>
 <part name="LED1" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
 <part name="C1" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
@@ -5722,7 +5666,6 @@ Warning: This is the KIT version of this package. This package has a smaller dia
 <instance part="J1" gate="G$1" x="7.62" y="157.48"/>
 <instance part="SUPPLY1" gate="VDD" x="15.24" y="167.64"/>
 <instance part="R1" gate="G$1" x="25.4" y="157.48"/>
-<instance part="U$1" gate="G$1" x="-20.32" y="10.16"/>
 <instance part="LED1" gate="G$1" x="45.72" y="160.02"/>
 <instance part="C1" gate="G$1" x="60.96" y="165.1"/>
 <instance part="SUPPLY3" gate="VDD" x="50.8" y="177.8"/>
