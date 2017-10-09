@@ -1995,8 +1995,8 @@ design rules under a new name.</description>
 <attribute name="PROD_ID" value="CAP-00810" x="208.28" y="3.81" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="LED12" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="WS2812B" value="WS2812B5050" x="217.678" y="3.556"/>
-<element name="C12" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" package="0603" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF" x="218.44" y="12.7" rot="R180">
-<attribute name="PROD_ID" value="CAP-00810" x="218.44" y="12.7" size="1.778" layer="27" rot="R180" display="off"/>
+<element name="C12" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" package="0603" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF" x="217.17" y="12.7" rot="R180">
+<attribute name="PROD_ID" value="CAP-00810" x="217.17" y="12.7" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="LED13" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="WS2812B" value="WS2812B5050" x="8.128" y="22.606"/>
 <element name="C13" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" package="0603" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF" x="17.78" y="22.86" rot="R90">
@@ -2043,8 +2043,8 @@ design rules under a new name.</description>
 <attribute name="PROD_ID" value="CAP-00810" x="208.28" y="22.86" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="LED48" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="WS2812B" value="WS2812B5050" x="217.678" y="22.606"/>
-<element name="C24" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" package="0603" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF" x="218.44" y="31.75" rot="R180">
-<attribute name="PROD_ID" value="CAP-00810" x="218.44" y="31.75" size="1.778" layer="27" rot="R180" display="off"/>
+<element name="C24" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" package="0603" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF" x="217.17" y="31.75" rot="R180">
+<attribute name="PROD_ID" value="CAP-00810" x="217.17" y="31.75" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="LED24" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="WS2812B" value="WS2812B5050" x="8.128" y="41.656"/>
 <element name="C25" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" package="0603" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF" x="17.78" y="41.91" rot="R90">
@@ -2091,8 +2091,8 @@ design rules under a new name.</description>
 <attribute name="PROD_ID" value="CAP-00810" x="208.28" y="41.91" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="LED35" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="WS2812B" value="WS2812B5050" x="217.678" y="41.656"/>
-<element name="C36" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" package="0603" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF" x="218.44" y="50.8" rot="R180">
-<attribute name="PROD_ID" value="CAP-00810" x="218.44" y="50.8" size="1.778" layer="27" rot="R180" display="off"/>
+<element name="C36" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" package="0603" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF" x="217.17" y="50.8" rot="R180">
+<attribute name="PROD_ID" value="CAP-00810" x="217.17" y="50.8" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="LED36" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="WS2812B" value="WS2812B5050" x="8.128" y="60.706"/>
 <element name="C37" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" package="0603" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF" x="17.78" y="60.96" rot="R90">
@@ -2139,8 +2139,8 @@ design rules under a new name.</description>
 <attribute name="PROD_ID" value="CAP-00810" x="208.28" y="60.96" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="LED47" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="WS2812B" value="WS2812B5050" x="217.678" y="60.706"/>
-<element name="C48" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" package="0603" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF" x="218.44" y="69.85" rot="R180">
-<attribute name="PROD_ID" value="CAP-00810" x="218.44" y="69.85" size="1.778" layer="27" rot="R180" display="off"/>
+<element name="C48" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" package="0603" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF" x="217.17" y="69.85" rot="R180">
+<attribute name="PROD_ID" value="CAP-00810" x="217.17" y="69.85" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 </elements>
 <signals>
@@ -2536,14 +2536,14 @@ design rules under a new name.</description>
 <via x="5.08" y="26.67" extent="1-16" drill="0.35"/>
 <wire x1="5.678" y1="24.256" x2="5.678" y2="26.072" width="0.1524" layer="1"/>
 <wire x1="5.678" y1="26.072" x2="5.08" y2="26.67" width="0.1524" layer="1"/>
-<wire x1="217.59" y1="12.7" x2="217.59" y2="7.568" width="0.1524" layer="1"/>
-<wire x1="217.59" y1="7.568" x2="215.228" y2="5.206" width="0.1524" layer="1"/>
-<wire x1="217.59" y1="31.75" x2="217.59" y2="26.618" width="0.1524" layer="1"/>
-<wire x1="217.59" y1="26.618" x2="215.228" y2="24.256" width="0.1524" layer="1"/>
-<wire x1="217.59" y1="50.8" x2="217.59" y2="45.668" width="0.1524" layer="1"/>
-<wire x1="217.59" y1="45.668" x2="215.228" y2="43.306" width="0.1524" layer="1"/>
-<wire x1="217.59" y1="69.85" x2="217.59" y2="64.718" width="0.1524" layer="1"/>
-<wire x1="217.59" y1="64.718" x2="215.228" y2="62.356" width="0.1524" layer="1"/>
+<wire x1="216.32" y1="12.7" x2="216.32" y2="6.298" width="0.1524" layer="1"/>
+<wire x1="216.32" y1="6.298" x2="215.228" y2="5.206" width="0.1524" layer="1"/>
+<wire x1="216.32" y1="31.75" x2="216.32" y2="25.348" width="0.1524" layer="1"/>
+<wire x1="216.32" y1="25.348" x2="215.228" y2="24.256" width="0.1524" layer="1"/>
+<wire x1="216.32" y1="50.8" x2="216.32" y2="44.398" width="0.1524" layer="1"/>
+<wire x1="216.32" y1="44.398" x2="215.228" y2="43.306" width="0.1524" layer="1"/>
+<wire x1="216.32" y1="69.85" x2="216.32" y2="63.448" width="0.1524" layer="1"/>
+<wire x1="216.32" y1="63.448" x2="215.228" y2="62.356" width="0.1524" layer="1"/>
 </signal>
 <signal name="VDD">
 <contactref element="J1" pad="5"/>
@@ -2916,26 +2916,27 @@ design rules under a new name.</description>
 <wire x1="34.29" y1="40.64" x2="31.75" y2="38.1" width="0.1524" layer="1"/>
 <wire x1="220.128" y1="1.906" x2="220.346" y2="1.906" width="0.1524" layer="1"/>
 <wire x1="220.346" y1="1.906" x2="222.25" y2="3.81" width="0.1524" layer="1"/>
-<wire x1="222.25" y1="3.81" x2="222.25" y2="9.74" width="0.1524" layer="1"/>
-<wire x1="219.29" y1="12.7" x2="222.25" y2="9.74" width="0.1524" layer="1"/>
-<wire x1="220.128" y1="59.056" x2="220.346" y2="59.056" width="0.1524" layer="1"/>
-<wire x1="220.346" y1="59.056" x2="222.25" y2="60.96" width="0.1524" layer="1"/>
-<wire x1="222.25" y1="60.96" x2="222.25" y2="66.89" width="0.1524" layer="1"/>
-<wire x1="222.25" y1="66.89" x2="219.29" y2="69.85" width="0.1524" layer="1"/>
+<wire x1="222.25" y1="3.81" x2="222.25" y2="8.47" width="0.1524" layer="1"/>
+<wire x1="218.23" y1="12.49" x2="222.25" y2="8.47" width="0.1524" layer="1"/>
+<wire x1="218.23" y1="12.49" x2="218.02" y2="12.7" width="0.1524" layer="1"/>
+<wire x1="220.128" y1="20.956" x2="220.346" y2="20.956" width="0.1524" layer="1"/>
+<wire x1="222.25" y1="22.86" x2="220.346" y2="20.956" width="0.1524" layer="1"/>
+<wire x1="222.25" y1="22.86" x2="222.25" y2="27.52" width="0.1524" layer="1"/>
+<wire x1="218.02" y1="31.75" x2="222.25" y2="27.52" width="0.1524" layer="1"/>
 <wire x1="220.128" y1="40.006" x2="220.346" y2="40.006" width="0.1524" layer="1"/>
 <wire x1="220.346" y1="40.006" x2="222.25" y2="41.91" width="0.1524" layer="1"/>
-<wire x1="222.25" y1="41.91" x2="222.25" y2="47.84" width="0.1524" layer="1"/>
-<wire x1="219.29" y1="50.8" x2="222.25" y2="47.84" width="0.1524" layer="1"/>
-<wire x1="220.128" y1="20.956" x2="220.346" y2="20.956" width="0.1524" layer="1"/>
-<wire x1="220.346" y1="20.956" x2="222.25" y2="22.86" width="0.1524" layer="1"/>
-<wire x1="222.25" y1="22.86" x2="222.25" y2="28.79" width="0.1524" layer="1"/>
-<wire x1="219.29" y1="31.75" x2="222.25" y2="28.79" width="0.1524" layer="1"/>
-<wire x1="220.128" y1="20.956" x2="220.128" y2="13.538" width="0.1524" layer="1"/>
-<wire x1="220.128" y1="13.538" x2="219.29" y2="12.7" width="0.1524" layer="1"/>
-<wire x1="220.128" y1="40.006" x2="220.128" y2="32.588" width="0.1524" layer="1"/>
-<wire x1="220.128" y1="32.588" x2="219.29" y2="31.75" width="0.1524" layer="1"/>
-<wire x1="220.128" y1="59.056" x2="220.128" y2="51.638" width="0.1524" layer="1"/>
-<wire x1="220.128" y1="51.638" x2="219.29" y2="50.8" width="0.1524" layer="1"/>
+<wire x1="222.25" y1="41.91" x2="222.25" y2="46.57" width="0.1524" layer="1"/>
+<wire x1="218.02" y1="50.8" x2="222.25" y2="46.57" width="0.1524" layer="1"/>
+<wire x1="220.128" y1="59.056" x2="220.346" y2="59.056" width="0.1524" layer="1"/>
+<wire x1="220.346" y1="59.056" x2="222.25" y2="60.96" width="0.1524" layer="1"/>
+<wire x1="222.25" y1="60.96" x2="222.25" y2="65.62" width="0.1524" layer="1"/>
+<wire x1="222.25" y1="65.62" x2="218.02" y2="69.85" width="0.1524" layer="1"/>
+<wire x1="220.128" y1="59.056" x2="220.128" y2="52.908" width="0.1524" layer="1"/>
+<wire x1="220.128" y1="52.908" x2="218.02" y2="50.8" width="0.1524" layer="1"/>
+<wire x1="220.128" y1="40.006" x2="220.128" y2="33.858" width="0.1524" layer="1"/>
+<wire x1="220.128" y1="33.858" x2="218.02" y2="31.75" width="0.1524" layer="1"/>
+<wire x1="220.128" y1="20.956" x2="220.128" y2="14.388" width="0.1524" layer="1"/>
+<wire x1="220.128" y1="14.388" x2="218.23" y2="12.49" width="0.1524" layer="1"/>
 </signal>
 <signal name="N$3">
 <contactref element="J1" pad="3"/>
@@ -3036,11 +3037,11 @@ design rules under a new name.</description>
 <contactref element="LED12" pad="2-DOUT"/>
 <contactref element="LED13" pad="4-DIN"/>
 <wire x1="12.664" y1="13.97" x2="5.678" y2="20.956" width="0.1524" layer="1"/>
-<wire x1="218.5114" y1="13.8986" x2="218.44" y2="13.97" width="0.1524" layer="1"/>
-<wire x1="218.5114" y1="12.1053125" x2="218.5114" y2="13.8986" width="0.1524" layer="1"/>
-<wire x1="220.128" y1="5.206" x2="220.128" y2="10.4887125" width="0.1524" layer="1"/>
-<wire x1="220.128" y1="10.4887125" x2="218.5114" y2="12.1053125" width="0.1524" layer="1"/>
-<wire x1="218.44" y1="13.97" x2="12.664" y2="13.97" width="0.1524" layer="1"/>
+<wire x1="217.2414" y1="13.8986" x2="217.17" y2="13.97" width="0.1524" layer="1"/>
+<wire x1="217.2414" y1="12.1053125" x2="217.2414" y2="13.8986" width="0.1524" layer="1"/>
+<wire x1="220.128" y1="5.206" x2="220.128" y2="9.2187125" width="0.1524" layer="1"/>
+<wire x1="220.128" y1="9.2187125" x2="217.2414" y2="12.1053125" width="0.1524" layer="1"/>
+<wire x1="217.17" y1="13.97" x2="12.664" y2="13.97" width="0.1524" layer="1"/>
 </signal>
 <signal name="N$14">
 <contactref element="LED13" pad="2-DOUT"/>
@@ -3134,11 +3135,11 @@ design rules under a new name.</description>
 <contactref element="LED48" pad="2-DOUT"/>
 <contactref element="LED24" pad="4-DIN"/>
 <wire x1="12.664" y1="33.02" x2="5.678" y2="40.006" width="0.1524" layer="1"/>
-<wire x1="218.5114" y1="32.9486" x2="218.44" y2="33.02" width="0.1524" layer="1"/>
-<wire x1="218.5114" y1="31.1553125" x2="218.5114" y2="32.9486" width="0.1524" layer="1"/>
-<wire x1="220.128" y1="24.256" x2="220.128" y2="29.5387125" width="0.1524" layer="1"/>
-<wire x1="220.128" y1="29.5387125" x2="218.5114" y2="31.1553125" width="0.1524" layer="1"/>
-<wire x1="218.44" y1="33.02" x2="12.664" y2="33.02" width="0.1524" layer="1"/>
+<wire x1="217.2414" y1="32.9486" x2="217.17" y2="33.02" width="0.1524" layer="1"/>
+<wire x1="217.2414" y1="31.1553125" x2="217.2414" y2="32.9486" width="0.1524" layer="1"/>
+<wire x1="220.128" y1="24.256" x2="220.128" y2="28.2687125" width="0.1524" layer="1"/>
+<wire x1="220.128" y1="28.2687125" x2="217.2414" y2="31.1553125" width="0.1524" layer="1"/>
+<wire x1="217.17" y1="33.02" x2="12.664" y2="33.02" width="0.1524" layer="1"/>
 </signal>
 <signal name="N$22">
 <contactref element="LED24" pad="2-DOUT"/>
@@ -3235,11 +3236,11 @@ design rules under a new name.</description>
 <contactref element="LED35" pad="2-DOUT"/>
 <contactref element="LED36" pad="4-DIN"/>
 <wire x1="12.664" y1="52.07" x2="5.678" y2="59.056" width="0.1524" layer="1"/>
-<wire x1="218.5114" y1="51.9986" x2="218.44" y2="52.07" width="0.1524" layer="1"/>
-<wire x1="218.5114" y1="50.2053125" x2="218.5114" y2="51.9986" width="0.1524" layer="1"/>
-<wire x1="220.128" y1="43.306" x2="220.128" y2="48.5887125" width="0.1524" layer="1"/>
-<wire x1="220.128" y1="48.5887125" x2="218.5114" y2="50.2053125" width="0.1524" layer="1"/>
-<wire x1="218.44" y1="52.07" x2="12.664" y2="52.07" width="0.1524" layer="1"/>
+<wire x1="217.2414" y1="51.9986" x2="217.17" y2="52.07" width="0.1524" layer="1"/>
+<wire x1="217.2414" y1="50.2053125" x2="217.2414" y2="51.9986" width="0.1524" layer="1"/>
+<wire x1="220.128" y1="43.306" x2="220.128" y2="47.3187125" width="0.1524" layer="1"/>
+<wire x1="220.128" y1="47.3187125" x2="217.2414" y2="50.2053125" width="0.1524" layer="1"/>
+<wire x1="217.17" y1="52.07" x2="12.664" y2="52.07" width="0.1524" layer="1"/>
 </signal>
 <signal name="N$37">
 <contactref element="LED36" pad="2-DOUT"/>
