@@ -37,7 +37,7 @@
 <layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
-<layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
+<layer number="30" name="bStop" color="7" fill="6" visible="yes" active="yes"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
 <layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
 <layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
@@ -186,6 +186,84 @@
 <wire x1="114.8697875" y1="39.584096875" x2="114.8697875" y2="34.583903125" width="0.0508" layer="20" curve="-180"/>
 <wire x1="111.369646875" y1="39.584096875" x2="114.8697875" y2="39.584096875" width="0.0508" layer="20"/>
 <wire x1="111.369646875" y1="34.583903125" x2="114.8697875" y2="34.583903125" width="0.0508" layer="20"/>
+<text x="152.019" y="41.275" size="1.6764" layer="22" font="vector" rot="MR0">Louis Orleans</text>
+<circle x="189.23" y="36.83" radius="7.62" width="0.1524" layer="30"/>
+<circle x="189.23" y="36.83" radius="6.731" width="1.016" layer="30"/>
+<wire x1="191.262" y1="33.02" x2="191.262" y2="36.195" width="1.27" layer="30"/>
+<wire x1="191.262" y1="36.195" x2="191.262" y2="40.64" width="1.27" layer="30"/>
+<wire x1="188.468" y1="40.64" x2="188.468" y2="36.195" width="1.27" layer="30" curve="180"/>
+<wire x1="191.262" y1="40.64" x2="188.468" y2="40.64" width="1.27" layer="30"/>
+<wire x1="188.468" y1="36.195" x2="191.262" y2="36.195" width="1.27" layer="30"/>
+<wire x1="191.262" y1="33.02" x2="186.436" y2="33.02" width="1.27" layer="30"/>
+<polygon width="0.0762" layer="22">
+<vertex x="186.182" y="40.132"/>
+<vertex x="183.007" y="36.957"/>
+<vertex x="183.007" y="36.83" curve="90"/>
+<vertex x="189.23" y="30.607"/>
+<vertex x="189.738" y="30.607"/>
+<vertex x="191.643" y="32.512"/>
+<vertex x="191.389" y="32.385"/>
+<vertex x="186.436" y="32.385" curve="-180"/>
+<vertex x="186.436" y="33.655"/>
+<vertex x="190.627" y="33.655"/>
+<vertex x="190.627" y="35.56"/>
+<vertex x="188.468" y="35.56" curve="-126.869898"/>
+</polygon>
+<polygon width="0.0762" layer="22">
+<vertex x="190.627" y="40.005"/>
+<vertex x="190.627" y="36.83"/>
+<vertex x="188.468" y="36.83" curve="-180"/>
+<vertex x="188.468" y="40.005"/>
+</polygon>
+<polygon width="0.0762" layer="22">
+<vertex x="184.15" y="42.037"/>
+<vertex x="182.753" y="40.64"/>
+<vertex x="182.372" y="40.005"/>
+<vertex x="182.118" y="39.243"/>
+<vertex x="181.864" y="38.354"/>
+<vertex x="181.737" y="37.338"/>
+<vertex x="181.737" y="36.195"/>
+<vertex x="181.864" y="35.306"/>
+<vertex x="182.118" y="34.417"/>
+<vertex x="182.499" y="33.401"/>
+<vertex x="183.007" y="32.639"/>
+<vertex x="183.769" y="31.623"/>
+<vertex x="184.531" y="30.988"/>
+<vertex x="185.42" y="30.353"/>
+<vertex x="186.436" y="29.845"/>
+<vertex x="187.325" y="29.591"/>
+<vertex x="188.595" y="29.337"/>
+<vertex x="189.738" y="29.337"/>
+<vertex x="190.627" y="29.464"/>
+<vertex x="191.643" y="29.718"/>
+<vertex x="192.786" y="30.226"/>
+<vertex x="193.04" y="30.353"/>
+<vertex x="194.437" y="31.75"/>
+<vertex x="193.675" y="31.115"/>
+<vertex x="192.913" y="30.607"/>
+<vertex x="191.897" y="30.099"/>
+<vertex x="191.135" y="29.845"/>
+<vertex x="190.627" y="29.718"/>
+<vertex x="189.865" y="29.591"/>
+<vertex x="188.341" y="29.591"/>
+<vertex x="187.325" y="29.845"/>
+<vertex x="186.436" y="30.099"/>
+<vertex x="185.674" y="30.48"/>
+<vertex x="185.039" y="30.861"/>
+<vertex x="184.404" y="31.369"/>
+<vertex x="183.896" y="31.877"/>
+<vertex x="183.388" y="32.512"/>
+<vertex x="182.88" y="33.274"/>
+<vertex x="182.499" y="34.036"/>
+<vertex x="182.245" y="34.925"/>
+<vertex x="182.118" y="35.56"/>
+<vertex x="181.991" y="36.83"/>
+<vertex x="182.118" y="38.227"/>
+<vertex x="182.372" y="39.243"/>
+<vertex x="182.753" y="40.132"/>
+<vertex x="183.261" y="41.021"/>
+<vertex x="183.896" y="41.783"/>
+</polygon>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics" urn="urn:adsk.eagle:library:507">
@@ -1658,7 +1736,7 @@ design rules under a new name.</description>
 </pass>
 </autorouter>
 <elements>
-<element name="FRAME1" library="SparkFun-Aesthetics" library_urn="urn:adsk.eagle:library:507" package="CREATIVE_COMMONS" package3d_urn="urn:adsk.eagle:package:37121/1" value="FRAME-LETTER" x="157.48" y="-8.89"/>
+<element name="FRAME1" library="SparkFun-Aesthetics" library_urn="urn:adsk.eagle:library:507" package="CREATIVE_COMMONS" package3d_urn="urn:adsk.eagle:package:37121/1" value="FRAME-LETTER" x="178.689" y="41.275" rot="MR0"/>
 <element name="J1" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="1X05_1.27MM" package3d_urn="urn:adsk.eagle:package:38110/1" value="" x="39.1395625" y="47.159578125" rot="R270">
 <attribute name="GND" value="" x="37.930421875" y="46.8865625" size="0.6096" layer="27" font="vector" align="bottom-right" display="name"/>
 <attribute name="PB2" value="" x="37.930421875" y="44.3465625" size="0.6096" layer="27" font="vector" align="bottom-right" display="name"/>
