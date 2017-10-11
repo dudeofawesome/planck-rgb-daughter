@@ -5518,195 +5518,195 @@ Warning: This is the KIT version of this package. This package has a smaller dia
 <part name="R1" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="M0805" package3d_urn="urn:adsk.eagle:package:26079/1" value="100"/>
 <part name="U$1" library="cherrymx" deviceset="CHERRY-MX-LED" device=""/>
 <part name="FRAME2" library="SparkFun-Aesthetics" library_urn="urn:adsk.eagle:library:507" deviceset="FRAME-LETTER" device="" package3d_urn="urn:adsk.eagle:package:37121/1"/>
-<part name="LED1" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED1" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C1" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY3" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND2" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED2" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED2" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C2" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY2" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND3" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED3" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED3" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C3" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY4" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND4" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED4" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED4" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C4" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY5" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND5" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED5" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED5" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C5" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY6" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND6" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED6" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED6" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C6" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY7" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND7" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED7" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED7" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C7" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY8" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND8" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED8" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED8" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C8" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY9" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND9" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED9" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED9" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C9" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY10" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND10" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED10" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED10" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C10" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY11" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND11" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED11" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED11" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C11" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY12" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND12" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED12" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED12" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C12" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY13" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND13" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED13" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED13" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C13" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY14" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND14" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED14" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED14" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C14" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY15" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND15" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED15" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED15" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C15" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY16" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND16" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED16" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED16" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C16" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY17" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND17" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED17" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED17" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C17" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY18" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND18" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED18" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED18" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C18" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY19" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND19" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED19" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED19" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C19" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY20" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND20" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED20" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED20" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C20" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY21" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND21" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED21" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED21" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C21" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY22" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND22" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED22" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED22" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C22" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY23" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND23" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED23" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED23" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C23" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY24" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND24" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED48" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED48" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C24" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY25" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND25" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED24" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED24" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C25" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY26" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND26" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED25" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED25" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C26" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY27" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND27" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED26" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED26" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C27" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY28" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND28" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED27" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED27" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C28" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY29" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND29" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED28" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED28" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C29" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY30" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND30" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED29" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED29" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C30" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY31" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND31" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED30" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED30" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C31" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY32" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND32" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED31" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED31" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C32" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY33" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND33" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED32" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED32" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C33" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY34" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND34" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED33" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED33" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C34" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY35" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND35" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED34" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED34" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C35" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY36" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND36" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED35" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED35" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C36" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY37" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND37" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED36" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED36" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C37" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY38" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND38" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED37" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED37" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C38" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY39" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND39" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED38" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED38" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C39" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY40" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND40" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED39" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED39" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C40" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY41" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND41" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED40" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED40" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C41" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY42" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND42" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED41" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED41" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C42" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY43" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND43" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED42" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED42" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C43" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY44" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND44" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED43" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED43" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C44" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY45" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND45" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED44" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED44" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C45" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY46" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND46" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED45" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED45" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C46" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY47" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND47" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED46" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED46" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C47" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY48" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND48" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="LED47" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="5050"/>
+<part name="LED47" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="WS2812B" device="3535" value="WS2812B3535"/>
 <part name="C48" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" package3d_urn="urn:adsk.eagle:package:37414/1" value="0.1uF"/>
 <part name="SUPPLY49" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="GND49" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
