@@ -1,6 +1,6 @@
 # planck-rgb-daughter
 
-A daughter-board for the [OLKB Planck](https://olkb.com/planck) to add RGB key lighting
+Daughter-board to add RGB switch lighting to the [OLKB Planck Keyboard](https://olkb.com/planck)
 
 ## Libraries used
 - adafruit
