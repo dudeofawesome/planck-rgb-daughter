@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE eagle SYSTEM "eagle.dtd">
+<eagle version="8.3.2">
+<drawing>
+<settings>
+<setting alwaysvectorfont="no"/>
+<setting verticaltext="up"/>
+</settings>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<layers>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="no" active="yes"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="no" active="yes"/>
+<layer number="4" name="Route4" color="1" fill="4" visible="no" active="yes"/>
+<layer number="5" name="Route5" color="4" fill="4" visible="no" active="yes"/>
+<layer number="6" name="Route6" color="1" fill="8" visible="no" active="yes"/>
+<layer number="7" name="Route7" color="4" fill="8" visible="no" active="yes"/>
+<layer number="8" name="Route8" color="1" fill="2" visible="no" active="yes"/>
+<layer number="9" name="Route9" color="4" fill="2" visible="no" active="yes"/>
+<layer number="10" name="Route10" color="1" fill="7" visible="no" active="yes"/>
+<layer number="11" name="Route11" color="4" fill="7" visible="no" active="yes"/>
+<layer number="12" name="Route12" color="1" fill="5" visible="no" active="yes"/>
+<layer number="13" name="Route13" color="4" fill="5" visible="no" active="yes"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="no" active="yes"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="no" active="yes"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
+<layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="yes"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="29" name="tStop" color="7" fill="3" visible="yes" active="yes"/>
+<layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
+<layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
+<layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
+<layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
+<layer number="34" name="bFinish" color="6" fill="6" visible="no" active="yes"/>
+<layer number="35" name="tGlue" color="7" fill="4" visible="no" active="yes"/>
+<layer number="36" name="bGlue" color="7" fill="5" visible="no" active="yes"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="yes"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="yes"/>
+<layer number="39" name="tKeepout" color="4" fill="11" visible="yes" active="yes"/>
+<layer number="40" name="bKeepout" color="1" fill="11" visible="yes" active="yes"/>
+<layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
+<layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
+<layer number="43" name="vRestrict" color="2" fill="10" visible="yes" active="yes"/>
+<layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
+<layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
+<layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
+<layer number="93" name="Pins" color="2" fill="1" visible="yes" active="yes"/>
+<layer number="94" name="Symbols" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="95" name="Names" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="96" name="Values" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="97" name="Info" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
+</layers>
+<library>
+<packages>
+<package name="C-AR20-AK510">
+<description>CONN RECEPT USB C 2.0 MD MT</description>
+</package>
+<package name="DX07S024JJ3R1300">
+<description>CONN RCPT USB3.1 TYPEC SMD R/A</description>
+<wire x1="-4.47" y1="-4.85" x2="-3.9" y2="-4.85" width="0.05" layer="21"/>
+<wire x1="-3.9" y1="-4.85" x2="3.9" y2="-4.85" width="0.05" layer="21"/>
+<wire x1="3.9" y1="-4.85" x2="4.47" y2="-4.85" width="0.05" layer="21"/>
+<wire x1="-4.47" y1="-4.85" x2="-4.47" y2="5" width="0.05" layer="21"/>
+<wire x1="-4.47" y1="5" x2="4.47" y2="5" width="0.05" layer="21"/>
+<wire x1="4.47" y1="5" x2="4.47" y2="-4.85" width="0.05" layer="21"/>
+<circle x="-3.6" y="0" radius="0.3" width="0.05" layer="21"/>
+<wire x1="-5" y1="0.4" x2="-3.9" y2="0.4" width="0.05" layer="21"/>
+<wire x1="-3.9" y1="0.4" x2="3.9" y2="0.4" width="0.05" layer="21"/>
+<wire x1="3.9" y1="0.4" x2="5" y2="0.4" width="0.05" layer="21"/>
+<wire x1="-3.9" y1="0.4" x2="-3.9" y2="-4.85" width="0.05" layer="21"/>
+<smd name="B12" x="-2.875" y="1.5" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A1" x="-2.625" y="3.1" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B11" x="-2.375" y="1.5" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A2" x="-2.125" y="3.1" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B10" x="-1.875" y="1.5" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A3" x="-1.625" y="3.1" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B9" x="-1.375" y="1.5" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A4" x="-1.125" y="3.1" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B8" x="-0.875" y="1.5" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A5" x="-0.625" y="3.1" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B7" x="-0.375" y="1.5" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A6" x="-0.125" y="3.1" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B6" x="0.125" y="1.5" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A7" x="0.375" y="3.1" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B5" x="0.625" y="1.5" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A8" x="0.875" y="3.1" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B4" x="1.125" y="1.5" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A9" x="1.375" y="3.1" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B3" x="1.625" y="1.5" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A10" x="1.875" y="3.1" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B2" x="2.125" y="1.5" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A11" x="2.375" y="3.1" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B1" x="2.625" y="1.5" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A12" x="2.875" y="3.1" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<wire x1="3.9" y1="0.4" x2="3.9" y2="-4.85" width="0.05" layer="21"/>
+<wire x1="-4.67" y1="-4.05" x2="-4.67" y2="-2.05" width="0.01" layer="20"/>
+<wire x1="-3.97" y1="-4.05" x2="-3.97" y2="-2.05" width="0.01" layer="20"/>
+<wire x1="-4.67" y1="-2.05" x2="-3.97" y2="-2.05" width="0.01" layer="20" curve="-180"/>
+<wire x1="-4.67" y1="-4.05" x2="-3.97" y2="-4.05" width="0.01" layer="20" curve="180"/>
+</package>
+<package name="USB-TYPE-C-HYBRID">
+<description>USB-TYPE-C-HYBRID</description>
+<smd name="6" x="-0.25" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
+<smd name="7" x="0.25" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
+<smd name="5" x="-0.75" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
+<smd name="4" x="-1.25" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
+<smd name="3" x="-1.75" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
+<smd name="2" x="-2.25" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
+<smd name="8" x="0.75" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
+<smd name="9" x="1.25" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
+<smd name="10" x="1.75" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
+<smd name="11" x="2.25" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
+<smd name="12" x="2.75" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
+<pad name="B7" x="-0.4" y="-0.65" drill="0.4" diameter="0.59"/>
+<pad name="B9" x="-1.2" y="-0.65" drill="0.4" diameter="0.59"/>
+<pad name="B8" x="-0.8" y="-1.35" drill="0.4" diameter="0.59"/>
+<pad name="B10" x="-1.6" y="-1.35" drill="0.4" diameter="0.59"/>
+<smd name="1" x="-2.75" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
+<pad name="B12" x="-2.8" y="-0.65" drill="0.4" diameter="0.59"/>
+<pad name="B11" x="-2.4" y="-1.35" drill="0.4" diameter="0.59"/>
+<pad name="B1" x="2.8" y="-0.65" drill="0.4" diameter="0.59"/>
+<pad name="B4" x="1.2" y="-0.65" drill="0.4" diameter="0.59"/>
+<pad name="B2" x="2.4" y="-1.35" drill="0.4" diameter="0.59"/>
+<pad name="B3" x="1.6" y="-1.35" drill="0.4" diameter="0.59"/>
+<pad name="B6" x="0.4" y="-0.65" drill="0.4" diameter="0.59"/>
+<pad name="B5" x="0.8" y="-1.35" drill="0.4" diameter="0.59"/>
+<smd name="P$1" x="1.25" y="1.55" dx="0.5" dy="0.3" layer="1"/>
+<smd name="P$2" x="3.38" y="1.55" dx="0.5" dy="0.3" layer="1"/>
+<smd name="P$3" x="-1.25" y="1.55" dx="0.5" dy="0.3" layer="1"/>
+<smd name="P$4" x="-3.37" y="1.55" dx="0.5" dy="0.3" layer="1"/>
+<wire x1="-4.5" y1="-8.17" x2="4.5" y2="-8.17" width="0.127" layer="21"/>
+<wire x1="4.5" y1="-8.17" x2="4.5" y2="1.8" width="0.127" layer="21"/>
+<wire x1="4.5" y1="1.8" x2="-4.5" y2="1.8" width="0.127" layer="21"/>
+<wire x1="-4.5" y1="1.8" x2="-4.5" y2="-8.17" width="0.127" layer="21"/>
+<pad name="P$7" x="-4.13" y="-0.95" drill="0.5"/>
+<pad name="P$8" x="-4.49" y="-5.34" drill="0.5"/>
+<pad name="P$9" x="4.49" y="-5.34" drill="0.5"/>
+<pad name="P$10" x="4.13" y="-0.95" drill="0.5"/>
+<pad name="P$11" x="-4.13" y="-1.05" drill="0.5"/>
+<pad name="P$12" x="-4.13" y="-1.15" drill="0.5"/>
+<pad name="P$13" x="-4.13" y="-1.25" drill="0.5"/>
+<pad name="P$14" x="-4.13" y="-1.25" drill="0.5"/>
+<pad name="P$15" x="-4.13" y="-1.35" drill="0.5"/>
+<pad name="P$16" x="-4.13" y="-1.45" drill="0.5"/>
+<pad name="P$17" x="-4.13" y="-1.55" drill="0.5"/>
+<pad name="P$18" x="4.13" y="-1.05" drill="0.5"/>
+<pad name="P$19" x="4.13" y="-1.15" drill="0.5"/>
+<pad name="P$20" x="4.13" y="-1.25" drill="0.5"/>
+<pad name="P$21" x="4.13" y="-1.35" drill="0.5"/>
+<pad name="P$22" x="4.13" y="-1.45" drill="0.5"/>
+<pad name="P$23" x="4.13" y="-1.55" drill="0.5"/>
+<pad name="P$24" x="-4.49" y="-5.44" drill="0.5"/>
+<pad name="P$25" x="-4.49" y="-5.54" drill="0.5"/>
+<pad name="P$26" x="-4.49" y="-5.64" drill="0.5"/>
+<pad name="P$27" x="-4.49" y="-5.74" drill="0.5"/>
+<pad name="P$28" x="-4.49" y="-5.84" drill="0.5"/>
+<pad name="P$29" x="-4.49" y="-5.94" drill="0.5"/>
+<pad name="P$30" x="4.49" y="-5.44" drill="0.5"/>
+<pad name="P$31" x="4.49" y="-5.54" drill="0.5"/>
+<pad name="P$32" x="4.49" y="-5.64" drill="0.5"/>
+<pad name="P$33" x="4.49" y="-5.74" drill="0.5"/>
+<pad name="P$34" x="4.49" y="-5.84" drill="0.5"/>
+<pad name="P$35" x="4.49" y="-5.94" drill="0.5"/>
+<hole x="-3.6" y="0" drill="0.65"/>
+<hole x="3.45" y="0" drill="0.65"/>
+<hole x="3.75" y="0" drill="0.65"/>
+<hole x="3.6" y="0" drill="0.65"/>
+</package>
+</packages>
+<symbols>
+<symbol name="DX07S024JJ3R1300">
+<description>CONN RCPT USB3.1 TYPEC SMD R/A</description>
+<pin name="B7" x="12.7" y="2.54" length="middle" rot="R180"/>
+<pin name="A7" x="12.7" y="-2.54" length="middle" rot="R180"/>
+<pin name="A6" x="12.7" y="7.62" length="middle" rot="R180"/>
+<pin name="B6" x="12.7" y="-7.62" length="middle" rot="R180"/>
+<pin name="B8" x="12.7" y="12.7" length="middle" direction="out" rot="R180"/>
+<pin name="A8" x="12.7" y="-12.7" length="middle" direction="out" rot="R180"/>
+<pin name="A5" x="12.7" y="17.78" length="middle" rot="R180"/>
+<pin name="B5" x="12.7" y="-17.78" length="middle" rot="R180"/>
+<pin name="A9" x="12.7" y="-22.86" length="middle" direction="pwr" rot="R180"/>
+<pin name="B4" x="12.7" y="-27.94" length="middle" direction="pwr" rot="R180"/>
+<pin name="B9" x="12.7" y="22.86" length="middle" direction="pwr" rot="R180"/>
+<pin name="A4" x="12.7" y="27.94" length="middle" direction="pwr" rot="R180"/>
+<pin name="B10" x="12.7" y="33.02" length="middle" direction="in" rot="R180"/>
+<pin name="A3" x="12.7" y="38.1" length="middle" direction="out" rot="R180"/>
+<pin name="A10" x="12.7" y="-33.02" length="middle" direction="in" rot="R180"/>
+<pin name="B3" x="12.7" y="-38.1" length="middle" direction="out" rot="R180"/>
+<pin name="B11" x="12.7" y="43.18" length="middle" direction="in" rot="R180"/>
+<pin name="A2" x="12.7" y="48.26" length="middle" direction="out" rot="R180"/>
+<pin name="A11" x="12.7" y="-43.18" length="middle" direction="in" rot="R180"/>
+<pin name="B2" x="12.7" y="-48.26" length="middle" direction="out" rot="R180"/>
+<pin name="B12" x="12.7" y="53.34" length="middle" direction="pwr" rot="R180"/>
+<pin name="A1" x="12.7" y="58.42" length="middle" direction="pwr" rot="R180"/>
+<pin name="A12" x="12.7" y="-53.34" length="middle" direction="pwr" rot="R180"/>
+<pin name="B1" x="12.7" y="-58.42" length="middle" direction="pwr" rot="R180"/>
+<wire x1="7.62" y1="63.5" x2="7.62" y2="-63.5" width="0.254" layer="94"/>
+<wire x1="7.62" y1="-63.5" x2="-12.7" y2="-63.5" width="0.254" layer="94"/>
+<wire x1="-12.7" y1="-63.5" x2="-12.7" y2="63.5" width="0.254" layer="94"/>
+<wire x1="-12.7" y1="63.5" x2="7.62" y2="63.5" width="0.254" layer="94"/>
+<text x="-7.62" y="0" size="2.54" layer="94" font="vector" rot="R90" align="bottom-center">USB Type-C</text>
+<text x="0" y="58.42" size="1.4224" layer="94" font="vector" align="center-right">GND</text>
+<text x="0" y="53.34" size="1.4224" layer="94" font="vector" align="center-right">GND</text>
+<text x="0" y="48.26" size="1.4224" layer="94" font="vector" align="center-right">TX1+</text>
+<text x="0" y="43.18" size="1.4224" layer="94" font="vector" align="center-right">RX1+</text>
+<text x="0" y="38.1" size="1.4224" layer="94" font="vector" align="center-right">TX1-</text>
+<text x="0" y="33.02" size="1.4224" layer="94" font="vector" align="center-right">RX1-</text>
+<text x="0" y="27.94" size="1.4224" layer="94" font="vector" align="center-right">V+</text>
+<text x="0" y="22.86" size="1.4224" layer="94" font="vector" align="center-right">V+</text>
+<text x="0" y="17.78" size="1.4224" layer="94" font="vector" align="center-right">CC1</text>
+<text x="0" y="12.7" size="1.4224" layer="94" font="vector" align="center-right">SBU2</text>
+<text x="0" y="7.62" size="1.4224" layer="94" font="vector" align="center-right">D+</text>
+<text x="0" y="2.54" size="1.4224" layer="94" font="vector" align="center-right">D-</text>
+<text x="0" y="-2.54" size="1.4224" layer="94" font="vector" align="center-right">D-</text>
+<text x="0" y="-7.62" size="1.4224" layer="94" font="vector" align="center-right">D+</text>
+<text x="0" y="-12.7" size="1.4224" layer="94" font="vector" align="center-right">SBU1</text>
+<text x="0" y="-17.78" size="1.4224" layer="94" font="vector" align="center-right">CC2</text>
+<text x="0" y="-22.86" size="1.4224" layer="94" font="vector" align="center-right">V+</text>
+<text x="0" y="-27.94" size="1.4224" layer="94" font="vector" align="center-right">V+</text>
+<text x="0" y="-33.02" size="1.4224" layer="94" font="vector" align="center-right">RX2-</text>
+<text x="0" y="-38.1" size="1.4224" layer="94" font="vector" align="center-right">TX2-</text>
+<text x="0" y="-43.18" size="1.4224" layer="94" font="vector" align="center-right">RX2+</text>
+<text x="0" y="-48.26" size="1.4224" layer="94" font="vector" align="center-right">TX2+</text>
+<text x="0" y="-53.34" size="1.4224" layer="94" font="vector" align="center-right">GND</text>
+<text x="0" y="-58.42" size="1.4224" layer="94" font="vector" align="center-right">GND</text>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="USB-TYPE-C">
+<description>CONN RCPT USB3.1 TYPEC SMD R/A</description>
+<gates>
+<gate name="G$1" symbol="DX07S024JJ3R1300" x="0" y="0"/>
+</gates>
+<devices>
+<device name="DX07S024JJ3R1300" package="DX07S024JJ3R1300">
+<connects>
+<connect gate="G$1" pin="A1" pad="A1"/>
+<connect gate="G$1" pin="A10" pad="A10"/>
+<connect gate="G$1" pin="A11" pad="A11"/>
+<connect gate="G$1" pin="A12" pad="A12"/>
+<connect gate="G$1" pin="A2" pad="A2"/>
+<connect gate="G$1" pin="A3" pad="A3"/>
+<connect gate="G$1" pin="A4" pad="A4"/>
+<connect gate="G$1" pin="A5" pad="A5"/>
+<connect gate="G$1" pin="A6" pad="A6"/>
+<connect gate="G$1" pin="A7" pad="A7"/>
+<connect gate="G$1" pin="A8" pad="A8"/>
+<connect gate="G$1" pin="A9" pad="A9"/>
+<connect gate="G$1" pin="B1" pad="B1"/>
+<connect gate="G$1" pin="B10" pad="B10"/>
+<connect gate="G$1" pin="B11" pad="B11"/>
+<connect gate="G$1" pin="B12" pad="B12"/>
+<connect gate="G$1" pin="B2" pad="B2"/>
+<connect gate="G$1" pin="B3" pad="B3"/>
+<connect gate="G$1" pin="B4" pad="B4"/>
+<connect gate="G$1" pin="B5" pad="B5"/>
+<connect gate="G$1" pin="B6" pad="B6"/>
+<connect gate="G$1" pin="B7" pad="B7"/>
+<connect gate="G$1" pin="B8" pad="B8"/>
+<connect gate="G$1" pin="B9" pad="B9"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
+</drawing>
+</eagle>
