@@ -71,9 +71,6 @@
 </layers>
 <library>
 <packages>
-<package name="C-AR20-AK510">
-<description>CONN RECEPT USB C 2.0 MD MT</description>
-</package>
 <package name="DX07S024JJ3R1300">
 <description>CONN RCPT USB3.1 TYPEC SMD R/A</description>
 <wire x1="-4.47" y1="-4.85" x2="-3.9" y2="-4.85" width="0.05" layer="21"/>
@@ -128,74 +125,6 @@
 <wire x1="4.02" y1="1.4" x2="4.02" y2="2.6" width="0.01" layer="20"/>
 <wire x1="4.62" y1="2.6" x2="4.02" y2="2.6" width="0.01" layer="20" curve="180"/>
 <wire x1="4.62" y1="1.4" x2="4.02" y2="1.4" width="0.01" layer="20" curve="-180"/>
-</package>
-<package name="USB-TYPE-C-HYBRID">
-<description>USB-TYPE-C-HYBRID</description>
-<smd name="6" x="-0.25" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
-<smd name="7" x="0.25" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
-<smd name="5" x="-0.75" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
-<smd name="4" x="-1.25" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
-<smd name="3" x="-1.75" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
-<smd name="2" x="-2.25" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
-<smd name="8" x="0.75" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
-<smd name="9" x="1.25" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
-<smd name="10" x="1.75" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
-<smd name="11" x="2.25" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
-<smd name="12" x="2.75" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
-<pad name="B7" x="-0.4" y="-0.65" drill="0.4" diameter="0.59"/>
-<pad name="B9" x="-1.2" y="-0.65" drill="0.4" diameter="0.59"/>
-<pad name="B8" x="-0.8" y="-1.35" drill="0.4" diameter="0.59"/>
-<pad name="B10" x="-1.6" y="-1.35" drill="0.4" diameter="0.59"/>
-<smd name="1" x="-2.75" y="0.56" dx="0.6" dy="0.29" layer="1" rot="R90"/>
-<pad name="B12" x="-2.8" y="-0.65" drill="0.4" diameter="0.59"/>
-<pad name="B11" x="-2.4" y="-1.35" drill="0.4" diameter="0.59"/>
-<pad name="B1" x="2.8" y="-0.65" drill="0.4" diameter="0.59"/>
-<pad name="B4" x="1.2" y="-0.65" drill="0.4" diameter="0.59"/>
-<pad name="B2" x="2.4" y="-1.35" drill="0.4" diameter="0.59"/>
-<pad name="B3" x="1.6" y="-1.35" drill="0.4" diameter="0.59"/>
-<pad name="B6" x="0.4" y="-0.65" drill="0.4" diameter="0.59"/>
-<pad name="B5" x="0.8" y="-1.35" drill="0.4" diameter="0.59"/>
-<smd name="P$1" x="1.25" y="1.55" dx="0.5" dy="0.3" layer="1"/>
-<smd name="P$2" x="3.38" y="1.55" dx="0.5" dy="0.3" layer="1"/>
-<smd name="P$3" x="-1.25" y="1.55" dx="0.5" dy="0.3" layer="1"/>
-<smd name="P$4" x="-3.37" y="1.55" dx="0.5" dy="0.3" layer="1"/>
-<wire x1="-4.5" y1="-8.17" x2="4.5" y2="-8.17" width="0.127" layer="21"/>
-<wire x1="4.5" y1="-8.17" x2="4.5" y2="1.8" width="0.127" layer="21"/>
-<wire x1="4.5" y1="1.8" x2="-4.5" y2="1.8" width="0.127" layer="21"/>
-<wire x1="-4.5" y1="1.8" x2="-4.5" y2="-8.17" width="0.127" layer="21"/>
-<pad name="P$7" x="-4.13" y="-0.95" drill="0.5"/>
-<pad name="P$8" x="-4.49" y="-5.34" drill="0.5"/>
-<pad name="P$9" x="4.49" y="-5.34" drill="0.5"/>
-<pad name="P$10" x="4.13" y="-0.95" drill="0.5"/>
-<pad name="P$11" x="-4.13" y="-1.05" drill="0.5"/>
-<pad name="P$12" x="-4.13" y="-1.15" drill="0.5"/>
-<pad name="P$13" x="-4.13" y="-1.25" drill="0.5"/>
-<pad name="P$14" x="-4.13" y="-1.25" drill="0.5"/>
-<pad name="P$15" x="-4.13" y="-1.35" drill="0.5"/>
-<pad name="P$16" x="-4.13" y="-1.45" drill="0.5"/>
-<pad name="P$17" x="-4.13" y="-1.55" drill="0.5"/>
-<pad name="P$18" x="4.13" y="-1.05" drill="0.5"/>
-<pad name="P$19" x="4.13" y="-1.15" drill="0.5"/>
-<pad name="P$20" x="4.13" y="-1.25" drill="0.5"/>
-<pad name="P$21" x="4.13" y="-1.35" drill="0.5"/>
-<pad name="P$22" x="4.13" y="-1.45" drill="0.5"/>
-<pad name="P$23" x="4.13" y="-1.55" drill="0.5"/>
-<pad name="P$24" x="-4.49" y="-5.44" drill="0.5"/>
-<pad name="P$25" x="-4.49" y="-5.54" drill="0.5"/>
-<pad name="P$26" x="-4.49" y="-5.64" drill="0.5"/>
-<pad name="P$27" x="-4.49" y="-5.74" drill="0.5"/>
-<pad name="P$28" x="-4.49" y="-5.84" drill="0.5"/>
-<pad name="P$29" x="-4.49" y="-5.94" drill="0.5"/>
-<pad name="P$30" x="4.49" y="-5.44" drill="0.5"/>
-<pad name="P$31" x="4.49" y="-5.54" drill="0.5"/>
-<pad name="P$32" x="4.49" y="-5.64" drill="0.5"/>
-<pad name="P$33" x="4.49" y="-5.74" drill="0.5"/>
-<pad name="P$34" x="4.49" y="-5.84" drill="0.5"/>
-<pad name="P$35" x="4.49" y="-5.94" drill="0.5"/>
-<hole x="-3.6" y="0" drill="0.65"/>
-<hole x="3.45" y="0" drill="0.65"/>
-<hole x="3.75" y="0" drill="0.65"/>
-<hole x="3.6" y="0" drill="0.65"/>
 </package>
 </packages>
 <symbols>
