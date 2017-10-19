@@ -150,6 +150,57 @@
 <pad name="GND@6" x="3.97" y="1.45" drill="0.7" diameter="1.4"/>
 <text x="0" y="3.81" size="1.27" layer="25" font="vector" align="bottom-center">&gt;Name</text>
 </package>
+<package name="DX07S024JJ3R1300-CHEAP">
+<description>CONN RCPT USB3.1 TYPEC SMD R/A
+&lt;br/&gt;&lt;br/&gt;
+Uses round pads to allow for cheaper manufacturing
+&lt;br/&gt;
+&lt;b&gt;This may or may not work!&lt;/b&gt;</description>
+<wire x1="-4.47" y1="-4.85" x2="-3.9" y2="-4.85" width="0.1016" layer="21"/>
+<wire x1="-3.9" y1="-4.85" x2="3.9" y2="-4.85" width="0.1016" layer="21"/>
+<wire x1="3.9" y1="-4.85" x2="4.47" y2="-4.85" width="0.1016" layer="21"/>
+<wire x1="-4.47" y1="-4.85" x2="-4.47" y2="0.4" width="0.1016" layer="21"/>
+<wire x1="-4.47" y1="0.4" x2="-4.47" y2="3.32" width="0.1016" layer="21"/>
+<wire x1="-4.47" y1="3.32" x2="4.47" y2="3.32" width="0.1016" layer="21"/>
+<wire x1="4.47" y1="3.32" x2="4.47" y2="0.4" width="0.1016" layer="21"/>
+<wire x1="4.47" y1="0.4" x2="4.47" y2="-4.85" width="0.1016" layer="21"/>
+<wire x1="-4.47" y1="0.4" x2="-3.9" y2="0.4" width="0.1016" layer="21"/>
+<wire x1="-3.9" y1="0.4" x2="3.9" y2="0.4" width="0.1016" layer="21"/>
+<wire x1="3.9" y1="0.4" x2="4.47" y2="0.4" width="0.1016" layer="21"/>
+<wire x1="-3.9" y1="0.4" x2="-3.9" y2="-4.85" width="0.1016" layer="21"/>
+<smd name="B12" x="-2.875" y="1.1" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A1" x="-2.625" y="2.7" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B11" x="-2.375" y="1.1" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A2" x="-2.125" y="2.7" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B10" x="-1.875" y="1.1" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A3" x="-1.625" y="2.7" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B9" x="-1.375" y="1.1" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A4" x="-1.125" y="2.7" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B8" x="-0.875" y="1.1" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A5" x="-0.625" y="2.7" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B7" x="-0.375" y="1.1" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A6" x="-0.125" y="2.7" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B6" x="0.125" y="1.1" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A7" x="0.375" y="2.7" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B5" x="0.625" y="1.1" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A8" x="0.875" y="2.7" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B4" x="1.125" y="1.1" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A9" x="1.375" y="2.7" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B3" x="1.625" y="1.1" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A10" x="1.875" y="2.7" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B2" x="2.125" y="1.1" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A11" x="2.375" y="2.7" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<smd name="B1" x="2.625" y="1.1" dx="0.8" dy="0.27" layer="1" rot="R90"/>
+<smd name="A12" x="2.875" y="2.7" dx="0.9" dy="0.27" layer="1" rot="R90"/>
+<wire x1="3.9" y1="0.4" x2="3.9" y2="-4.85" width="0.1016" layer="21"/>
+<pad name="GND@1" x="-4.318" y="-3.048" drill="2"/>
+<pad name="GND@2" x="4.318" y="-3.048" drill="2"/>
+<hole x="-3.6" y="0" drill="0.6"/>
+<hole x="3.6" y="0.065" drill="0.85"/>
+<pad name="GND@3" x="-4.318" y="1.952" drill="1.9"/>
+<pad name="GND@4" x="4.318" y="1.952" drill="1.9"/>
+<text x="0" y="3.81" size="1.27" layer="25" font="vector" align="bottom-center">&gt;Name</text>
+</package>
 </packages>
 <symbols>
 <symbol name="DX07S024JJ3R1300">
@@ -185,13 +236,36 @@
 <gate name="G$1" symbol="DX07S024JJ3R1300" x="0" y="0"/>
 </gates>
 <devices>
-<device name="DX07S024JJ3R1300" package="DX07S024JJ3R1300">
+<device name="SPEC" package="DX07S024JJ3R1300">
 <connects>
 <connect gate="G$1" pin="CC1" pad="A5"/>
 <connect gate="G$1" pin="CC2" pad="B5"/>
 <connect gate="G$1" pin="D+" pad="A6 B6"/>
 <connect gate="G$1" pin="D-" pad="A7 B7"/>
 <connect gate="G$1" pin="GND" pad="A1 A12 B1 B12 GND@1 GND@2 GND@3 GND@4 GND@5 GND@6"/>
+<connect gate="G$1" pin="RX1+" pad="B11"/>
+<connect gate="G$1" pin="RX1-" pad="B10"/>
+<connect gate="G$1" pin="RX2+" pad="A11"/>
+<connect gate="G$1" pin="RX2-" pad="A10"/>
+<connect gate="G$1" pin="SBU1" pad="A8"/>
+<connect gate="G$1" pin="SBU2" pad="B8"/>
+<connect gate="G$1" pin="TX1+" pad="A2"/>
+<connect gate="G$1" pin="TX1-" pad="A3"/>
+<connect gate="G$1" pin="TX2+" pad="B2"/>
+<connect gate="G$1" pin="TX2-" pad="B3"/>
+<connect gate="G$1" pin="VBUS" pad="A4 A9 B4 B9"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="CHEAP" package="DX07S024JJ3R1300-CHEAP">
+<connects>
+<connect gate="G$1" pin="CC1" pad="A5"/>
+<connect gate="G$1" pin="CC2" pad="B5"/>
+<connect gate="G$1" pin="D+" pad="A6 B6"/>
+<connect gate="G$1" pin="D-" pad="A7 B7"/>
+<connect gate="G$1" pin="GND" pad="A1 A12 B1 B12 GND@1 GND@2 GND@3 GND@4"/>
 <connect gate="G$1" pin="RX1+" pad="B11"/>
 <connect gate="G$1" pin="RX1-" pad="B10"/>
 <connect gate="G$1" pin="RX2+" pad="A11"/>
