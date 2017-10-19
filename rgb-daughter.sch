@@ -6561,81 +6561,48 @@ Warning: This is the KIT version of this package. This package has a smaller dia
 <wire x1="3.35" y1="-0.185" x2="3.85" y2="-0.185" width="0.0508" layer="20"/>
 <wire x1="3.85" y1="0.315" x2="3.85" y2="-0.185" width="0.0508" layer="20" curve="-180"/>
 <wire x1="3.35" y1="0.315" x2="3.35" y2="-0.185" width="0.0508" layer="20" curve="180"/>
-<pad name="GND" x="-4.318" y="-3.048" drill="0.7" diameter="1.3" shape="long" rot="R90"/>
+<pad name="GND@1" x="-4.318" y="-3.048" drill="0.7" diameter="1.3" shape="long" rot="R90"/>
 <wire x1="-4.67" y1="-3.7" x2="-4.67" y2="-2.4" width="0.0508" layer="20"/>
 <wire x1="-3.97" y1="-3.7" x2="-3.97" y2="-2.4" width="0.0508" layer="20"/>
 <wire x1="-4.67" y1="-2.4" x2="-3.97" y2="-2.4" width="0.0508" layer="20" curve="-180"/>
 <wire x1="-4.67" y1="-3.7" x2="-3.97" y2="-3.7" width="0.0508" layer="20" curve="180"/>
-<pad name="GND$1" x="4.318" y="-3.048" drill="0.7" diameter="1.3" shape="long" rot="R90"/>
+<pad name="GND@2" x="4.318" y="-3.048" drill="0.7" diameter="1.3" shape="long" rot="R90"/>
 <hole x="-3.6" y="0" drill="0.6"/>
 <hole x="3.35" y="0.065" drill="0.5"/>
 <hole x="3.85" y="0.065" drill="0.5"/>
 <hole x="3.6" y="0.065" drill="0.5"/>
-<pad name="GND$2" x="-4.318" y="1.952" drill="0.6" diameter="1.2" shape="long" rot="R90"/>
-<pad name="GND$3" x="-3.97" y="1.45" drill="0.7" diameter="1.4" rot="R180"/>
-<pad name="GND$4" x="4.318" y="1.952" drill="0.6" diameter="1.2" shape="long" rot="R90"/>
-<pad name="GND$5" x="3.97" y="1.45" drill="0.7" diameter="1.4"/>
-<text x="-5.461" y="3.302" size="1.27" layer="25" font="vector" rot="R90" align="bottom-right">&gt;Name</text>
+<pad name="GND@3" x="-4.318" y="1.952" drill="0.6" diameter="1.2" shape="long" rot="R90"/>
+<pad name="GND@4" x="-3.97" y="1.45" drill="0.7" diameter="1.4" rot="R180"/>
+<pad name="GND@5" x="4.318" y="1.952" drill="0.6" diameter="1.2" shape="long" rot="R90"/>
+<pad name="GND@6" x="3.97" y="1.45" drill="0.7" diameter="1.4"/>
+<text x="0" y="3.81" size="1.27" layer="25" font="vector" align="bottom-center">&gt;Name</text>
 </package>
 </packages>
 <symbols>
 <symbol name="DX07S024JJ3R1300">
 <description>CONN RCPT USB3.1 TYPEC SMD R/A</description>
-<pin name="B7" x="-20.32" y="2.54" visible="pin" length="middle"/>
-<pin name="A7" x="20.32" y="-2.54" visible="pin" length="middle" rot="R180"/>
-<pin name="A6" x="20.32" y="2.54" visible="pin" length="middle" rot="R180"/>
-<pin name="B6" x="-20.32" y="-2.54" visible="pin" length="middle"/>
-<pin name="B8" x="-20.32" y="7.62" visible="pin" length="middle" direction="out"/>
-<pin name="A8" x="20.32" y="-7.62" visible="pin" length="middle" direction="out" rot="R180"/>
-<pin name="A5" x="20.32" y="7.62" visible="pin" length="middle" rot="R180"/>
-<pin name="B5" x="-20.32" y="-7.62" visible="pin" length="middle"/>
-<pin name="A9" x="20.32" y="-12.7" visible="pin" length="middle" direction="pwr" rot="R180"/>
-<pin name="B4" x="-20.32" y="-12.7" visible="pin" length="middle" direction="pwr"/>
-<pin name="B9" x="-20.32" y="12.7" visible="pin" length="middle" direction="pwr"/>
-<pin name="A4" x="20.32" y="12.7" visible="pin" length="middle" direction="pwr" rot="R180"/>
-<pin name="B10" x="-20.32" y="17.78" visible="pin" length="middle"/>
-<pin name="A3" x="20.32" y="17.78" visible="pin" length="middle" rot="R180"/>
-<pin name="A10" x="20.32" y="-17.78" visible="pin" length="middle" rot="R180"/>
-<pin name="B3" x="-20.32" y="-17.78" visible="pin" length="middle"/>
-<pin name="B11" x="-20.32" y="22.86" visible="pin" length="middle"/>
-<pin name="A2" x="20.32" y="22.86" visible="pin" length="middle" rot="R180"/>
-<pin name="A11" x="20.32" y="-22.86" visible="pin" length="middle" rot="R180"/>
-<pin name="B2" x="-20.32" y="-22.86" visible="pin" length="middle"/>
-<pin name="B12" x="-20.32" y="27.94" visible="pin" length="middle" direction="pwr"/>
-<pin name="A1" x="20.32" y="27.94" visible="pin" length="middle" direction="pwr" rot="R180"/>
-<pin name="A12" x="20.32" y="-27.94" visible="pin" length="middle" direction="pwr" rot="R180"/>
-<pin name="B1" x="-20.32" y="-27.94" visible="pin" length="middle" direction="pwr"/>
-<wire x1="15.24" y1="30.48" x2="15.24" y2="-30.48" width="0.4064" layer="94"/>
-<wire x1="15.24" y1="-30.48" x2="-15.24" y2="-30.48" width="0.4064" layer="94"/>
-<wire x1="-15.24" y1="-30.48" x2="-15.24" y2="30.48" width="0.4064" layer="94"/>
-<wire x1="-15.24" y1="30.48" x2="15.24" y2="30.48" width="0.4064" layer="94"/>
-<text x="0" y="33.02" size="1.778" layer="97" font="vector" rot="R180" align="top-center">USB Type-C</text>
-<text x="7.62" y="27.94" size="1.4224" layer="94" font="vector" align="center-right">GND</text>
-<text x="-7.62" y="27.94" size="1.4224" layer="94" font="vector" align="center-left">GND</text>
-<text x="7.62" y="22.86" size="1.4224" layer="94" font="vector" align="center-right">TX1+</text>
-<text x="-7.62" y="22.86" size="1.4224" layer="94" font="vector" align="center-left">RX1+</text>
-<text x="7.62" y="17.78" size="1.4224" layer="94" font="vector" align="center-right">TX1-</text>
-<text x="-7.62" y="17.78" size="1.4224" layer="94" font="vector" align="center-left">RX1-</text>
-<text x="-7.62" y="12.7" size="1.4224" layer="94" font="vector" align="center-left">V+</text>
-<text x="7.62" y="12.7" size="1.4224" layer="94" font="vector" align="center-right">V+</text>
-<text x="-7.62" y="7.62" size="1.4224" layer="94" font="vector" align="center-left">CC1</text>
-<text x="7.62" y="7.62" size="1.4224" layer="94" font="vector" align="center-right">SBU2</text>
-<text x="-7.62" y="2.54" size="1.4224" layer="94" font="vector" align="center-left">D+</text>
-<text x="7.62" y="2.54" size="1.4224" layer="94" font="vector" align="center-right">D-</text>
-<text x="-7.62" y="-2.54" size="1.4224" layer="94" font="vector" align="center-left">D-</text>
-<text x="7.62" y="-2.54" size="1.4224" layer="94" font="vector" align="center-right">D+</text>
-<text x="-7.62" y="-7.62" size="1.4224" layer="94" font="vector" align="center-left">SBU1</text>
-<text x="7.62" y="-7.62" size="1.4224" layer="94" font="vector" align="center-right">CC2</text>
-<text x="-7.62" y="-12.7" size="1.4224" layer="94" font="vector" align="center-left">V+</text>
-<text x="7.62" y="-12.7" size="1.4224" layer="94" font="vector" align="center-right">V+</text>
-<text x="-7.62" y="-17.78" size="1.4224" layer="94" font="vector" align="center-left">RX2-</text>
-<text x="7.62" y="-17.78" size="1.4224" layer="94" font="vector" align="center-right">TX2-</text>
-<text x="-7.62" y="-22.86" size="1.4224" layer="94" font="vector" align="center-left">RX2+</text>
-<text x="7.62" y="-22.86" size="1.4224" layer="94" font="vector" align="center-right">TX2+</text>
-<text x="7.62" y="-27.94" size="1.4224" layer="94" font="vector" align="center-right">GND</text>
-<text x="-7.62" y="-27.94" size="1.4224" layer="94" font="vector" align="center-left">GND</text>
-<pin name="GND" x="0" y="-33.02" visible="pin" length="short" direction="pwr" rot="R90"/>
-<text x="0" y="37.084" size="1.778" layer="95" font="vector" rot="R180" align="top-center">&gt;Name</text>
+<pin name="TX1+" x="17.78" y="7.62" visible="pin" length="middle" rot="R180"/>
+<pin name="CC2" x="17.78" y="12.7" visible="pin" length="middle" rot="R180"/>
+<pin name="TX1-" x="17.78" y="2.54" visible="pin" length="middle" direction="out" rot="R180"/>
+<pin name="CC1" x="17.78" y="17.78" visible="pin" length="middle" rot="R180"/>
+<pin name="RX2+" x="17.78" y="-22.86" visible="pin" length="middle" rot="R180"/>
+<pin name="RX1+" x="17.78" y="-2.54" visible="pin" length="middle" direction="pwr" rot="R180"/>
+<pin name="D-" x="17.78" y="22.86" visible="pin" length="middle" direction="pwr" rot="R180"/>
+<pin name="D+" x="17.78" y="27.94" visible="pin" length="middle" rot="R180"/>
+<pin name="RX1-" x="17.78" y="-7.62" visible="pin" length="middle" rot="R180"/>
+<pin name="RX2-" x="17.78" y="-27.94" visible="pin" length="middle" rot="R180"/>
+<pin name="GND" x="17.78" y="33.02" visible="pin" length="middle" rot="R180"/>
+<pin name="TX2+" x="17.78" y="-12.7" visible="pin" length="middle" rot="R180"/>
+<pin name="SBU1" x="17.78" y="-33.02" visible="pin" length="middle" rot="R180"/>
+<pin name="VBUS" x="17.78" y="38.1" visible="pin" length="middle" direction="pwr" rot="R180"/>
+<pin name="TX2-" x="17.78" y="-17.78" visible="pin" length="middle" direction="pwr" rot="R180"/>
+<pin name="SBU2" x="17.78" y="-38.1" visible="pin" length="middle" direction="pwr" rot="R180"/>
+<wire x1="12.7" y1="40.64" x2="12.7" y2="-40.64" width="0.4064" layer="94"/>
+<wire x1="12.7" y1="-40.64" x2="-7.62" y2="-40.64" width="0.4064" layer="94"/>
+<wire x1="-7.62" y1="-40.64" x2="-7.62" y2="40.64" width="0.4064" layer="94"/>
+<wire x1="-7.62" y1="40.64" x2="12.7" y2="40.64" width="0.4064" layer="94"/>
+<text x="-2.54" y="0" size="1.778" layer="97" font="vector" rot="R270" align="top-center">USB Type-C</text>
+<text x="-2.54" y="42.164" size="1.778" layer="95" font="vector" rot="R180" align="top-center">&gt;Name</text>
 </symbol>
 </symbols>
 <devicesets>
@@ -6647,31 +6614,22 @@ Warning: This is the KIT version of this package. This package has a smaller dia
 <devices>
 <device name="DX07S024JJ3R1300" package="DX07S024JJ3R1300">
 <connects>
-<connect gate="G$1" pin="A1" pad="A1"/>
-<connect gate="G$1" pin="A10" pad="A10"/>
-<connect gate="G$1" pin="A11" pad="A11"/>
-<connect gate="G$1" pin="A12" pad="A12"/>
-<connect gate="G$1" pin="A2" pad="A2"/>
-<connect gate="G$1" pin="A3" pad="A3"/>
-<connect gate="G$1" pin="A4" pad="A4"/>
-<connect gate="G$1" pin="A5" pad="A5"/>
-<connect gate="G$1" pin="A6" pad="A6"/>
-<connect gate="G$1" pin="A7" pad="A7"/>
-<connect gate="G$1" pin="A8" pad="A8"/>
-<connect gate="G$1" pin="A9" pad="A9"/>
-<connect gate="G$1" pin="B1" pad="B1"/>
-<connect gate="G$1" pin="B10" pad="B10"/>
-<connect gate="G$1" pin="B11" pad="B11"/>
-<connect gate="G$1" pin="B12" pad="B12"/>
-<connect gate="G$1" pin="B2" pad="B2"/>
-<connect gate="G$1" pin="B3" pad="B3"/>
-<connect gate="G$1" pin="B4" pad="B4"/>
-<connect gate="G$1" pin="B5" pad="B5"/>
-<connect gate="G$1" pin="B6" pad="B6"/>
-<connect gate="G$1" pin="B7" pad="B7"/>
-<connect gate="G$1" pin="B8" pad="B8"/>
-<connect gate="G$1" pin="B9" pad="B9"/>
-<connect gate="G$1" pin="GND" pad="GND GND$1 GND$2 GND$3 GND$4 GND$5"/>
+<connect gate="G$1" pin="CC1" pad="A5"/>
+<connect gate="G$1" pin="CC2" pad="B5"/>
+<connect gate="G$1" pin="D+" pad="A6 B6"/>
+<connect gate="G$1" pin="D-" pad="A7 B7"/>
+<connect gate="G$1" pin="GND" pad="A1 A12 B1 B12 GND@1 GND@2 GND@3 GND@4 GND@5 GND@6"/>
+<connect gate="G$1" pin="RX1+" pad="B11"/>
+<connect gate="G$1" pin="RX1-" pad="B10"/>
+<connect gate="G$1" pin="RX2+" pad="A11"/>
+<connect gate="G$1" pin="RX2-" pad="A10"/>
+<connect gate="G$1" pin="SBU1" pad="A8"/>
+<connect gate="G$1" pin="SBU2" pad="B8"/>
+<connect gate="G$1" pin="TX1+" pad="A2"/>
+<connect gate="G$1" pin="TX1-" pad="A3"/>
+<connect gate="G$1" pin="TX2+" pad="B2"/>
+<connect gate="G$1" pin="TX2-" pad="B3"/>
+<connect gate="G$1" pin="VBUS" pad="A4 A9 B4 B9"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -6895,13 +6853,6 @@ Warning: This is the KIT version of this package. This package has a smaller dia
 <part name="GND52" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
 <part name="SUPPLY52" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
 <part name="SUPPLY50" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
-<part name="SUPPLY51" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
-<part name="SUPPLY53" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
-<part name="SUPPLY54" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VDD" device=""/>
-<part name="GND50" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="GND51" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="GND53" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="GND54" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
 <part name="GND55" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
 </parts>
 <sheets>
@@ -8382,19 +8333,12 @@ Warning: This is the KIT version of this package. This package has a smaller dia
 <instances>
 <instance part="FRAME3" gate="G$1" x="0" y="0"/>
 <instance part="FRAME3" gate="V" x="147.32" y="0"/>
-<instance part="USB-C" gate="G$1" x="43.18" y="142.24"/>
+<instance part="USB-C" gate="G$1" x="15.24" y="137.16"/>
 <instance part="USB-PLANCK" gate="G$1" x="129.54" y="165.1" rot="MR0"/>
 <instance part="GND52" gate="1" x="114.3" y="157.48"/>
 <instance part="SUPPLY52" gate="VDD" x="114.3" y="172.72"/>
-<instance part="SUPPLY50" gate="VDD" x="68.58" y="154.94"/>
-<instance part="SUPPLY51" gate="VDD" x="17.78" y="154.94"/>
-<instance part="SUPPLY53" gate="VDD" x="68.58" y="129.54"/>
-<instance part="SUPPLY54" gate="VDD" x="17.78" y="129.54"/>
-<instance part="GND50" gate="1" x="68.58" y="111.76"/>
-<instance part="GND51" gate="1" x="17.78" y="111.76"/>
-<instance part="GND53" gate="1" x="68.58" y="167.64"/>
-<instance part="GND54" gate="1" x="17.78" y="167.64"/>
-<instance part="GND55" gate="1" x="43.18" y="104.14"/>
+<instance part="SUPPLY50" gate="VDD" x="40.64" y="175.26"/>
+<instance part="GND55" gate="1" x="40.64" y="167.64"/>
 </instances>
 <busses>
 </busses>
@@ -8407,28 +8351,8 @@ Warning: This is the KIT version of this package. This package has a smaller dia
 <pinref part="GND52" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="USB-C" gate="G$1" pin="A12"/>
-<wire x1="63.5" y1="114.3" x2="68.58" y2="114.3" width="0.1524" layer="91"/>
-<pinref part="GND50" gate="1" pin="GND"/>
-</segment>
-<segment>
-<pinref part="USB-C" gate="G$1" pin="B1"/>
-<wire x1="22.86" y1="114.3" x2="17.78" y2="114.3" width="0.1524" layer="91"/>
-<pinref part="GND51" gate="1" pin="GND"/>
-</segment>
-<segment>
-<pinref part="USB-C" gate="G$1" pin="A1"/>
-<wire x1="63.5" y1="170.18" x2="68.58" y2="170.18" width="0.1524" layer="91"/>
-<pinref part="GND53" gate="1" pin="GND"/>
-</segment>
-<segment>
-<pinref part="USB-C" gate="G$1" pin="B12"/>
-<wire x1="22.86" y1="170.18" x2="17.78" y2="170.18" width="0.1524" layer="91"/>
-<pinref part="GND54" gate="1" pin="GND"/>
-</segment>
-<segment>
 <pinref part="USB-C" gate="G$1" pin="GND"/>
-<wire x1="43.18" y1="109.22" x2="43.18" y2="106.68" width="0.1524" layer="91"/>
+<wire x1="33.02" y1="170.18" x2="40.64" y2="170.18" width="0.1524" layer="91"/>
 <pinref part="GND55" gate="1" pin="GND"/>
 </segment>
 </net>
@@ -8440,37 +8364,12 @@ Warning: This is the KIT version of this package. This package has a smaller dia
 <pinref part="SUPPLY52" gate="VDD" pin="VDD"/>
 </segment>
 <segment>
-<pinref part="USB-C" gate="G$1" pin="A4"/>
-<wire x1="63.5" y1="154.94" x2="68.58" y2="154.94" width="0.1524" layer="91"/>
+<pinref part="USB-C" gate="G$1" pin="VBUS"/>
 <pinref part="SUPPLY50" gate="VDD" pin="VDD"/>
-</segment>
-<segment>
-<pinref part="USB-C" gate="G$1" pin="B9"/>
-<wire x1="22.86" y1="154.94" x2="17.78" y2="154.94" width="0.1524" layer="91"/>
-<pinref part="SUPPLY51" gate="VDD" pin="VDD"/>
-</segment>
-<segment>
-<pinref part="USB-C" gate="G$1" pin="A9"/>
-<wire x1="63.5" y1="129.54" x2="68.58" y2="129.54" width="0.1524" layer="91"/>
-<pinref part="SUPPLY53" gate="VDD" pin="VDD"/>
-</segment>
-<segment>
-<pinref part="USB-C" gate="G$1" pin="B4"/>
-<wire x1="22.86" y1="129.54" x2="17.78" y2="129.54" width="0.1524" layer="91"/>
-<pinref part="SUPPLY54" gate="VDD" pin="VDD"/>
+<wire x1="33.02" y1="175.26" x2="40.64" y2="175.26" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="USB_D-" class="0">
-<segment>
-<pinref part="USB-C" gate="G$1" pin="A6"/>
-<wire x1="63.5" y1="144.78" x2="68.58" y2="144.78" width="0.1524" layer="91"/>
-<label x="68.58" y="144.78" size="1.778" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="USB-C" gate="G$1" pin="B6"/>
-<wire x1="22.86" y1="139.7" x2="17.78" y2="139.7" width="0.1524" layer="91"/>
-<label x="17.78" y="139.7" size="1.778" layer="95" rot="MR0" xref="yes"/>
-</segment>
 <segment>
 <pinref part="USB-PLANCK" gate="G$1" pin="3"/>
 <wire x1="124.46" y1="167.64" x2="111.76" y2="167.64" width="0.1524" layer="91"/>
@@ -8478,24 +8377,28 @@ Warning: This is the KIT version of this package. This package has a smaller dia
 <wire x1="111.76" y1="170.18" x2="109.22" y2="170.18" width="0.1524" layer="91"/>
 <label x="109.22" y="170.18" size="1.778" layer="95" rot="MR0" xref="yes"/>
 </segment>
+<segment>
+<pinref part="USB-C" gate="G$1" pin="D-"/>
+<wire x1="33.02" y1="160.02" x2="35.56" y2="160.02" width="0.1524" layer="91"/>
+<wire x1="35.56" y1="160.02" x2="35.56" y2="157.48" width="0.1524" layer="91"/>
+<wire x1="35.56" y1="157.48" x2="45.72" y2="157.48" width="0.1524" layer="91"/>
+<label x="45.72" y="157.48" size="1.778" layer="95" xref="yes"/>
+</segment>
 </net>
 <net name="USB_D+" class="0">
-<segment>
-<pinref part="USB-C" gate="G$1" pin="A7"/>
-<wire x1="63.5" y1="139.7" x2="68.58" y2="139.7" width="0.1524" layer="91"/>
-<label x="68.58" y="139.7" size="1.778" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="USB-C" gate="G$1" pin="B7"/>
-<wire x1="22.86" y1="144.78" x2="17.78" y2="144.78" width="0.1524" layer="91"/>
-<label x="17.78" y="144.78" size="1.778" layer="95" rot="MR0" xref="yes"/>
-</segment>
 <segment>
 <pinref part="USB-PLANCK" gate="G$1" pin="2"/>
 <wire x1="124.46" y1="165.1" x2="111.76" y2="165.1" width="0.1524" layer="91"/>
 <wire x1="111.76" y1="165.1" x2="111.76" y2="162.56" width="0.1524" layer="91"/>
 <wire x1="111.76" y1="162.56" x2="109.22" y2="162.56" width="0.1524" layer="91"/>
 <label x="109.22" y="162.56" size="1.778" layer="95" rot="MR0" xref="yes"/>
+</segment>
+<segment>
+<pinref part="USB-C" gate="G$1" pin="D+"/>
+<wire x1="33.02" y1="165.1" x2="35.56" y2="165.1" width="0.1524" layer="91"/>
+<wire x1="35.56" y1="165.1" x2="35.56" y2="162.56" width="0.1524" layer="91"/>
+<wire x1="35.56" y1="162.56" x2="45.72" y2="162.56" width="0.1524" layer="91"/>
+<label x="45.72" y="162.56" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 </nets>
